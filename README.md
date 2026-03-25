@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![](./screenshot-recipe.jpg)
+![](./screenshot-recipe-small.jpeg)
 
 
 
